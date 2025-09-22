@@ -1,6 +1,6 @@
 # WASSUPPP GUYSSSS😼
 
-![Gamba
+![Gambar 1](Image/Wassup.png.jfif)
 Halo semuanyaaa kenalin aku Revania Azalea Ayutama. Aku bisa dipanggil Vani. Aku sekarang kuliah di jurusan Geofisika UGM angkatan 2024. Aku suka bangettt kucing karena imut. Kaya kamu eaa....(maaf so asik)
 
 # 📚 Minat Belajar
@@ -19,5 +19,5 @@ Halo semuanyaaa kenalin aku Revania Azalea Ayutama. Aku bisa dipanggil Vani. Aku
 # HOBI??????????
 
 hobiku makan sihhhh, jajan, ngemil apalagi pake lauk ini
-![Gambar2](Image/jajan.png)
+![Gambar2](Image/jajan.png.jfif)
 
